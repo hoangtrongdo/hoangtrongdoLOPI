@@ -1,0 +1,149 @@
+body {
+   
+    margin-left: 25px;
+    margin-right: 25px;;
+    padding: 20px;
+}
+button {
+    background-color: #0056b3;
+    color: white;
+    border: none;
+}
+.block{
+    width: 100%;
+    height: 150px;
+}
+.block1{
+    background-color: white;
+    width: 15%;
+    height: 150px;
+    float: left;
+   
+}
+.block2{
+    background-color: white;
+    width: 10%;
+    height: 150px;
+    float: left
+}
+.block3{
+    background-color: white;
+    width: 12%;
+    height: 150px;
+    float: left;
+}
+.block4{
+    background-color: white;
+    width: 10%;
+    height: 150px;
+    float: left;
+}
+.block5{
+    background-color: white;
+    width: 12%;
+    height: 150px;
+    float: left;
+}
+.block6{
+    background-color: white;
+    width: 6%;
+    height: 150px;
+    float: left;
+}
+.block7{
+background-color: white;
+width: 6%;
+height: 150px;
+float: left;
+}
+.block8{
+    background-color: white;
+    width: 20%;
+    height: 150px;
+    float: right;
+}
+.block9{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+}
+.block10{
+    background-color:white;
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 18%;
+    height: 300px;
+    float: left;
+}
+.block11{
+    background-color: white;
+    width: 26%;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.block12{
+    background-color:white;
+    width: 26%;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.block13{
+    background-color: white;
+    width: 26%;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.block14{
+    background-color:white;
+    width: 26%;
+    height: 75px;
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.block15{
+    background-color: white;
+    width: 26%;
+    height: 75px;
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.block16{
+    background-color: white;
+    width: 26%;
+    height: 75px;
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.block17{
+    background-color: white;
+    width: 26%;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.block18{
+    background-color:white;
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 30%;
+    height: 200px;
+    padding-left: 20%;
+    bottom: 0;
+}
+.block19{
+    background-color: white;
+    width: 100%;
+    height: 20px;
+    float:left;
+  
+}

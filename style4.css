@@ -1,0 +1,215 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.block{
+    width: 100%;
+    height: 150px;
+}
+.block1{
+    background-color: white;
+    width: 30%;
+    height:80px;
+    float:left;
+}
+.block2{
+    background-color: white;
+    width: 15%;
+    height:80px;
+    float:left;
+}
+.block3{
+    background-color: white;
+    width: 15%;
+    height:80px;
+    float:left;
+}
+.block4{
+    background-color: white;
+    width: 12%;
+    height:80px;
+    float:left;
+}
+.block5{
+    background-color: white;
+    width: 12%;
+    height:80px;
+    float:right;
+}
+.block6{
+    background-color: white;
+    width: 5%;
+    height:80px;
+    float:right;
+}
+.block7{
+    background-color: white;
+    width: 5%;
+    height:80px;
+    float:right;
+}
+.block8{
+    background-color: rgb(97, 99, 99);
+    width: 100%;
+    height:450px;
+    float: left;
+}
+.block9{
+    background-color: rgb(27, 25, 24);
+    width: 100%;
+    height:50px;
+    float:left;
+}
+.block10{
+    background-color:white;
+    width: 20%;
+    height:150px;
+    float:left;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-left: 120px;
+    margin-right: 20px;
+}
+.block11{
+    background-color: white;
+    width: 20%;
+    height:150px;
+    float:left;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.block12{
+    background-color: white;
+    width: 20%;
+    height:150px;
+    float:left;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.block13{
+    background-color: white;
+    width: 20%;
+    height:150px;
+    float:left;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+.TráiTim{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+.CáNhân{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.Giày{
+    border: 1px solid white;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-left: 90px;
+    margin-right: 160px;
+}
+.Yêu{
+    font-family:"Arial"; 
+    font-size: 25px;
+}
+.Hello{
+    margin-bottom: 10px;
+    margin-top: 15px;
+    margin-left: 90px;
+}
+.FC{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+    margin-bottom:-10px;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.Như{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.Zed{
+    background-color: #05090d;
+    border: 1px solid #0c0c0c;
+    border-radius: 15px;
+    color: white;
+    width: 130px;
+    height: 40px;
+    float: right;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+.Đen{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+.block14{
+    background-color: white;
+    width: 20%;
+    height:30px;
+    float:left;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-left: 120px;
+    margin-right: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+.block15{
+    background-color: white;
+    width: 20%;
+    height:30px;
+    float:left;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+.block16{
+    background-color:white;
+    width: 20%;
+    height:30px;
+    float:left;border: 1px solid white;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+.block17{
+    background-color: white;
+    width: 20%;
+    height:30px;
+    float:left;
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-top: 5px;
+    text-align: center;
+}
+.PhụKiện{
+    border-radius: 15px;
+}
+
+.block18{
+    background-color: white;
+    width: 100%;
+    height: 20px;
+    float: left;
+}
